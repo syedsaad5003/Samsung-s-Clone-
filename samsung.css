@@ -1,0 +1,815 @@
+.body{
+    
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    margin: 0;
+    background-color: white;
+    color: black;
+    overflow: scroll;
+}
+
+
+.main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.nav-bar{
+    background-color: black;
+    width: 100%;
+    height: 80px;
+    background-color: #fff;
+    font-size: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.logo{
+    width: 120px;
+    height: 56px;
+}
+
+.list{
+    display: flex;
+    margin: 0px 1px 0px 0px;
+  
+}
+
+.shop{
+    width: 47px;
+    height: 80px;
+    background-color: transparent;
+    border: none;
+    color: black;
+    cursor: pointer;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    padding: 0px 8px;
+    margin-right: 10px;
+}
+
+.mobile{
+    width: 58px;
+    height: 80px;
+    background-color: transparent;
+    border: none;
+    color: black;
+    cursor: pointer;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    padding: 0px 8px;
+    margin-right: 10px;
+}
+
+.tv{
+    width: 62px;
+    height: 80px;
+    background-color: transparent;
+    border: none;
+    color: black;
+    cursor: pointer;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    padding: 0px 8px;
+    margin-right: 10px;
+}
+
+.appliances{
+    width: 124px;
+    height: 80px;
+    background-color: transparent;
+    border: none;
+    color: black;
+    cursor: pointer;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    padding: 0px 8px;
+    margin-right: 10px;
+}
+
+.laptop{
+    width: 130px;
+    height: 80px;
+    background-color: transparent;
+    border: none;
+    color: black;
+    cursor: pointer;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    padding: 0px 8px;
+    margin-right: 10px;
+}
+
+.displays{
+    width: 68px;
+    height: 80px;
+    background-color: transparent;
+    border: none;
+    color: black;
+    cursor: pointer;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    padding: 0px 8px;
+    margin-right: 10px;
+}
+.accessories{
+    width: 88px;
+    height: 80px;
+    background-color: transparent;
+    border: none;
+    color: black;
+    cursor: pointer;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    padding: 0px 8px;
+    margin-right: 10px;
+}
+.smart-things{
+    width: 95px;
+    height: 80px;
+    background-color: transparent;
+    border: none;
+    color: black;
+    cursor: pointer;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    padding: 0px 8px;
+    margin-right: 10px;
+}
+
+
+
+.support{
+    width: 66px;
+    height: 80px;
+    background-color: transparent;
+    border: none;
+    color: black;
+    cursor: pointer;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: 600;
+    display: inline;
+    font-size: 14px;
+    padding: 0px 8px;
+    margin-right: 10px;
+}
+
+.business{
+    width: 93px;
+    height: 80px;
+    background-color: transparent;
+    padding: 0px 8px;
+    border: none;
+    color: black;
+    cursor: pointer;
+    font-size: 14px;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-weight: 600;
+    display: inline;
+    margin-right: 10px;
+}
+
+.galaxy-ad{
+    position: relative;
+}
+
+.s24{
+    justify-content: center;
+    width: 1130px;
+    height: 640px;
+    position: relative;
+}
+
+/* .overlay-text{
+    position: absolute;
+    text-align: center;
+    opacity: 1;
+    transition: opacity 0.5s;
+} */
+
+/* .galaxy-ad:hover.overlay-text{
+    opacity: 1;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+
+}  */
+
+.week-banner{
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 106px;
+    padding: 45px 0px 0px;
+    font-weight: 700;
+    color: black;
+    display: flex;
+    font-size: 30px;
+}
+
+.list2{
+    display: inline;
+    margin: 0px 1px 0px 0px;
+    justify-content: center0;
+    align-items: center;
+    display: flex;
+    width: 100%;
+}
+
+.menu-banner{
+    background-color: black;
+    width: 100%;
+    height: 80px;
+    background-color: #fff;
+    font-size: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.banner-list{
+    display: flex;
+    margin: auto;
+    font-weight: 400;
+}
+
+.newin-banner{
+    width: 50px;
+    height: 55px;
+    color: black;
+    font-weight:500;
+    margin: 0px 40ox 0px 0px;
+    background-color: transparent;
+    border: none;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    cursor: pointer;   
+    margin-right: 10px;
+}
+
+.mobile-banner{
+    width: 80px;
+    height: 55px;
+    color: black;
+    font-weight: 400;
+    margin: 0px 40ox 0px 0px;
+    background-color: transparent;
+    border: none;   
+    margin-right: 10px;
+}
+
+.tv-banner{
+    width: 80px;
+    height: 55px;
+    color: black;
+    font-weight: 400;
+    margin: 0px 40ox 0px 0px;
+    background-color: transparent;
+    border: none;  
+    margin-right: 10px; 
+}
+
+
+.galaxy-ecosystem-banner{
+    width: 150px;
+    height: 55px;
+    color: black;
+    font-weight: 400;
+    margin: 0px 40ox 0px 0px;
+    background-color: transparent;
+    border: none; 
+    margin-right: 10px;  
+}
+
+.appliances-banner{
+        width: 150px;
+        height: 55px;
+        color: black;
+        font-weight: 400;
+        margin: 0px 40ox 0px 0px;
+        background-color: transparent;
+        border: none;
+        margin-right: 10px;   
+    
+}
+.samsung-live-banner{
+    width: 150px;
+    height: 55px;
+    color: black;
+    font-weight: 400;
+    margin: 0px 40ox 0px 0px;
+    background-color: transparent;
+    border: none;   
+    margin-right: 10px;
+}
+
+ul{
+    list-style-type: none;
+}
+
+.cards{
+    display: flex;
+    flex-wrap: wrap;
+    overflow-x: hidden;
+    justify-content: center;
+    align-self: center;
+    border-radius: 1rem;
+    justify-self: center;
+    max-width: 100%;
+    height: auto;
+}
+
+.book4{
+    width: 400px;
+    height: 400px;
+    padding: 0px 15px 15px 0px;
+    margin-left: 10px;
+}
+
+.s23{
+    width: 400px;
+    height: 400px;
+    padding: 0px 15px 15px 0px;
+}
+
+.mobile-headline{
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 106px;
+    padding: 45px 0px 0px;
+    font-weight: 700;
+    color: black;
+   display: flex;
+   font-size: 30px;
+}
+
+
+.mobile-banner{
+    background-color: black;
+    width: 100%;
+    height: 80px;
+    background-color: #fff;
+    font-size: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-decoration: none;
+    background: transparent;
+}
+
+.galaxy-items{
+    display: flex;
+    margin: auto;
+    font-weight: 400;
+    text-decoration: none;
+    background: transparent;
+    width:max-content;
+}
+
+.s24ultra-tag{
+    width: 150px;
+    height: 55px;
+    color: black;
+    font-weight:500;
+    margin: 0px 40ox 0px 0px;
+    background-color: transparent;
+    border: none;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    cursor: pointer;   
+    margin-right: 10px;
+}
+
+.s24-tag{
+    width: 150px;
+    height: 55px;
+    color: black;
+    font-weight:500;
+    margin: 0px 40ox 0px 0px;
+    background-color: transparent;
+    border: none;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    cursor: pointer;   
+    margin-right: 10px;
+}
+
+.fold5-tag{
+    width: 160px;
+    height: 55px;
+    color: black;
+    font-weight:500;
+    margin: 0px 40ox 0px 0px;
+    background-color: transparent;
+    border: none;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    cursor: pointer;   
+    margin-right: 10px;
+}
+
+.book3-tag{
+    width: 150px;
+    height: 55px;
+    color: black;
+    font-weight:500;
+    margin: 0px 40ox 0px 0px;
+    background-color: transparent;
+    border: none;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    cursor: pointer;   
+    margin-right: 10px;
+}
+
+.watch6-tag{
+    width: 150px;
+    height: 55px;
+    color: black;
+    font-weight:500;
+    margin: 0px 40ox 0px 0px;
+    background-color: transparent;
+    border: none;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    cursor: pointer;   
+    margin-right: 10px;
+}
+
+.banner1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.s24-banner{
+    justify-content: center;
+    align-self: center;
+    width: 550px;
+    height: 500px;
+    justify-self: center;
+    display:flex;
+}
+.s24-banner-des{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.s24-details{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    justify-self: center;
+
+}
+.s24-buttons{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    justify-self: center;
+    height: 3px;
+}
+ .learn-more-s24{
+    text-decoration: none;
+    background-color: transparent;
+    margin-right: 2rem;
+    border: none;
+    cursor: pointer;
+    font-weight: 300;
+}
+.learn-more-s23{
+    text-decoration: none;
+    background-color: transparent;
+    margin-right: 2rem;
+    border: none;
+    cursor: pointer;
+    font-weight: 300;
+}
+.learn-more-lap{
+    text-decoration: none;
+    background-color: transparent;
+    margin-right: 2rem;
+    border: none;
+    cursor: pointer;
+    font-weight: 300;
+}
+.buy-now-s24{
+    background-color: black;
+    color: #fff;
+    margin-right: 2rem;
+    cursor: pointer;
+    font-weight: 300;
+}
+.buy-now-lap{
+    background-color: black;
+    color: #fff;
+    margin-right: 2rem;
+    cursor: pointer;
+    font-weight: 300;
+}
+.buy-now-s23{
+    background-color: black;
+    color: #fff;
+    margin-right: 2rem;
+    cursor: pointer;
+    font-weight: 300;
+}
+
+
+.qled-headline{
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 106px;
+    padding: 45px 0px 0px;
+    font-weight: 700;
+    color: black;
+   display: flex;
+   font-size: 30px;
+}
+
+
+.qled-items{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-weight: 400;
+   align-self: center;
+   justify-self: center;
+ 
+}
+
+.qled-tag{
+    width: 150px;
+    height: 55px;
+    color: black;
+    font-weight:500;
+    margin: 0px 40ox 0px 0px;
+    background-color: transparent;
+    border: none;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    cursor: pointer;   
+    margin-right: 10px;
+}
+
+.neo-tag{
+    width: 150px;
+    height: 55px;
+    color: black;
+    font-weight:500;
+    margin: 0px 40ox 0px 0px;
+    background-color: transparent;
+    border: none;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    cursor: pointer;   
+    margin-right: 10px;
+}
+
+.oled-tag{
+    width: 160px;
+    height: 55px;
+    color: black;
+    font-weight:500;
+    margin: 0px 40ox 0px 0px;
+    background-color: transparent;
+    border: none;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    cursor: pointer;   
+    margin-right: 10px;
+}
+
+.frame-tag{
+    width: 150px;
+    height: 55px;
+    color: black;
+    font-weight:500;
+    margin: 0px 40ox 0px 0px;
+    background-color: transparent;
+    border: none;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    cursor: pointer;   
+    margin-right: 10px;
+}
+
+.crystal-tag{
+    width: 150px;
+    height: 55px;
+    color: black;
+    font-weight:500;
+    background-color: transparent;
+    border: none;
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    cursor: pointer;   
+    margin-right: 10px;
+}
+
+.banner2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.qled-image{
+    justify-content: center;
+    align-self: center;
+    align-items: center;
+    width: 950px;
+    height: 500px;
+    justify-self: center;
+    display:flex;
+}
+.qled-banner{
+  
+    width: 600px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.qled-banner-des{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.qled-details{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    justify-self: center;
+
+}
+.qled-buttons{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    justify-self: center;
+    height: 3px;
+}
+
+.buy-now-qled{
+    background-color: black;
+    color: #fff;
+    margin-right: 2rem;
+    cursor: pointer;
+    font-weight: 300;
+}
+
+.ha-headline{
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 106px;
+    padding: 45px 0px 0px;
+    font-weight: 700;
+    color: black;
+   display: flex;
+   font-size: 30px;
+}
+
+.banner3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.eco-image{
+    justify-content: center;
+    align-self: center;
+    align-items: center;
+    width: 950px;
+    height: 500px;
+    justify-self: center;
+    display:flex;
+}
+.ha-banner{
+  
+    width: 600px;
+    height: 80px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.ha-banner-des{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.ha-details{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    justify-self: center;
+
+}
+.ha-buttons{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    justify-self: center;
+    height: 3px;
+}
+
+.buy-now-eco{
+    background-color: black;
+    color: #fff;
+    margin-right: 2rem;
+    cursor: pointer;
+    font-weight: 300;
+}
+
+.rp{
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+}
+
+.rp-img1{
+   
+    width: 150px;
+    height: 150px;
+   
+}
+
+.rp-img2{
+   
+    width: 150px;
+    height: 150px;
+   
+}
+
+.rp-img3{
+    width: 150px;
+    height: 150px;
+
+}
+
+.rp-card1{  
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem;
+}
+.rp-card2{  
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+.rp-card3{  
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
